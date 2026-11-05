@@ -1,0 +1,20 @@
+name: rise_team_1
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.12
+  - pandas
+  - numpy
+  - matplotlib
+  - sqlalchemy
+  - pymysql
+  - python-dotenv
+  - requests
+  - tqdm
+  - openpyxl
+  - xlrd
+  - geopandas
+  - shapely
