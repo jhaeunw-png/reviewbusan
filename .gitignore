@@ -5,4 +5,4 @@ backup
 sources/**
 !sources/results/
 !sources/results/**
-database/init/results/dump-rise_db-202611041708.sql
+database/init/dump-rise_db-202611041708.sql
