@@ -1,9 +1,9 @@
 version: "3"
 services:
-  rise_team1_db:
+  rise_team2_db:
     image: mariadb:latest
     restart: unless-stopped
-    container_name: rise-team1-db
+    container_name: rise-team2-db
     volumes:
       # - ./MariaDB:/var/lib/mysql
       - ./init/:/docker-entrypoint-initdb.d
