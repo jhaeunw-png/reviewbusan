@@ -18,3 +18,4 @@ dependencies:
   - xlrd
   - geopandas
   - shapely
+  - holidays
